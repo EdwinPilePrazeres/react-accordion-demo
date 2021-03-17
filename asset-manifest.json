@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-accordion-demo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-accordion-demo/static/js/main.c5bfd631.chunk.js",
+    "main.js.map": "/react-accordion-demo/static/js/main.c5bfd631.chunk.js.map",
+    "runtime-main.js": "/react-accordion-demo/static/js/runtime-main.07a1a10c.js",
+    "runtime-main.js.map": "/react-accordion-demo/static/js/runtime-main.07a1a10c.js.map",
+    "static/js/2.f8cf84d8.chunk.js": "/react-accordion-demo/static/js/2.f8cf84d8.chunk.js",
+    "static/js/2.f8cf84d8.chunk.js.map": "/react-accordion-demo/static/js/2.f8cf84d8.chunk.js.map",
+    "static/js/3.795eac56.chunk.js": "/react-accordion-demo/static/js/3.795eac56.chunk.js",
+    "static/js/3.795eac56.chunk.js.map": "/react-accordion-demo/static/js/3.795eac56.chunk.js.map",
+    "index.html": "/react-accordion-demo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-accordion-demo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f8cf84d8.chunk.js.LICENSE.txt": "/react-accordion-demo/static/js/2.f8cf84d8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-accordion-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07a1a10c.js",
+    "static/js/2.f8cf84d8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c5bfd631.chunk.js"
+  ]
+}
